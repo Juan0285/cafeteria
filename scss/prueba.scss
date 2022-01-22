@@ -1,3 +1,9 @@
-h1 {
-    color:red;
-}
+@import "variables.scss";
+@import "../scss/layout/home";
+@import "../scss/layout/local";
+@import "../scss/layout/paraLlevar";
+@import "../scss/layout/conocenos";
+@import "../scss/layout/contacto";
+@import "../scss/layout/footer";
+
+
